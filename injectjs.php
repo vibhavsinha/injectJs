@@ -20,7 +20,7 @@ function wpmudev_google_analytics() { ?>
 	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	  ga('create', 'UA-39361049-1', 'auto');
+	  ga('create', 'UA-XXXXXX-X', 'auto');
 	  ga('send', 'pageview');
 
 	</script>
